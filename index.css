@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(206, 205, 178);
+  margin: 0px;
+}
+header {
+  background-color: rgb(131, 73, 42);
+  padding: 80px 40px;
+  text-align: center;
+  font-size: 26px;
+  margin: 0%;
+}
+#heading {
+  text-align: center;
+  padding: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#left {
+  text-align: left;
+  padding: 80px;
+  background-color: rgb(233, 232, 218);
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  max-width: 45%;
+}
